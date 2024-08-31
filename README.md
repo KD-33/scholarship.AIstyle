@@ -1,1 +1,1 @@
-# scholarship.AIstyle
+# scholarships.AIstyle
