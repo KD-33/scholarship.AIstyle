@@ -6,9 +6,9 @@ This project aims to guide students and educators on leveraging artificial intel
 <summary><h2>Contents</h2></summary>
 
 - [AI Tools](AI-Tools.md)
-- [Finding Scholarships](finding-scholarships.md)
-- [Writing Scholarship Essays](writing-scholarship-essays.md)
-- [Case Studies](case-studies.md)
-- [Ethics](ethics.md)  
+- [Finding Scholarships](Finding-Scholarships.md)
+- [Writing Scholarship Essays](Writing-Scholarship-Essays.md)
+- [Case Studies](Case-Studies.md)
+- [Ethics](Ethics.md)  
 
 </details>
