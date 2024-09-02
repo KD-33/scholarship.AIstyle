@@ -9,5 +9,6 @@ This project aims to guide students and educators on leveraging artificial intel
 - [Finding Scholarships](finding-scholarships.md)
 - [Writing Scholarship Essays](writing-scholarship-essays.md)
 - [Case Studies](case-studies.md)
-- [Ethics](ethics.md)
+- [Ethics](ethics.md)  
+
 </details>
