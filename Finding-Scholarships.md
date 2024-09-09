@@ -5,9 +5,10 @@ As with any task, different AI models are better equipped to handle different si
 _____
 
 ### Perplexity
--AMAZING at finding lists of scholarships  
+-Good at finding lists of scholarships  
 -Will only provide links that can be accessed without going through a paywall (accessed for free)  
 -Sometimes provides links to individual scholarships and sometimes provides links to long lists of scholarships from "scholarship finding" websites  
+-Scholarships can be out of date, so make sure to check for application deadlines
 -Short, simple prompts like "Political Science Scholarships for Undergrads" will do the trick  
 -You can include more information like GPA, major, extracurriculars, ethnicity, etc. to make the results more specific  
 
@@ -20,4 +21,4 @@ _____
 
 As I said before, not all AIs are created equal. While I do heavily encourage the use of ChatGPT, it is not good at finding scholarships. It will only provide a short list that is full of outdated scholarships. Usually all of their scholarships are from big "scholarship finding" websites. Often times the links that ChatGPT provides don't even lead to a valid webpage, just a 404 error. 
 
-[Back to Home](scholarships-AIstyle.md)
+[Back to Home](README.md)
