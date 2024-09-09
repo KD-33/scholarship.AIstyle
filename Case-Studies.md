@@ -12,4 +12,4 @@ Essay Requirements
 ### Double Chat Window
 ###
 
-[Back to Home](scholarships.AIstyle.md)
+[Back to Home](README.md)
