@@ -10,6 +10,6 @@ Essay Requirements
 ### All or Nothing
 ### My Voice
 ### Double Chat Window
-###
+### Outline
 
 [Back to Home](README.md)
