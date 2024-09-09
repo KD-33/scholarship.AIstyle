@@ -9,11 +9,12 @@ Sometimes we just find ourselves with a writing bug and the easiest thing to do 
 Just like the name suggests 
 
 ## Double Chat Window
-One of my favorite methods, double chat window 
+One of my favorite methods is the double chat window. Basically you have the AI answer your essay prompt (but do not tell the AI that it is writing an essay, just tell it to answer the question) then once it provides an answer, you open a new chat and paste the answer in. On the new chat, ask the AI to write an essay using the information provided to answer [insert essay prompt]. 
 
 ## My Voice
 
 
-##
+## Outline
+A classic
 
 [Back to Home](README.md)
