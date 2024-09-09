@@ -28,4 +28,4 @@ In that case, refrain from using AI tools to maintain the integrity of the appli
 
 Ethical use of AI in scholarship applications ensures fairness, maintains the integrity of the process, and supports your personal growth. Always prioritize honesty and your own intellectual contribution.
 
-[Back to Home](scholarships-AIstyle.md)
+[Back to Home](README.md)
