@@ -1,5 +1,8 @@
 # Ethics
-## While AI can be a powerful aid, it's crucial to use it responsibly and ethically.
+While AI can be a powerful aid, it's crucial to use it responsibly and ethically. 
+It is imperative that before you use AI tools for any step in the scholarship application process you carefully read all of the requirements to ensure that the competition allows AI usage. There is the possiblility that you come across a sentence like this, " We request that applicants do not use AI tools such as ChatGPT to assist with preparing this essay. The originality of thought and language are highly valued in our evaluation scheme."
+In that case, refrain from using AI tools to maintain the integrity of the application process. 
+
 
 ## Ethical Principles
 
@@ -20,6 +23,8 @@
 5. **Personal Growth**
    - Use AI as a learning tool to improve your writing and thinking skills.
    - Don't rely solely on AI-generated content without understanding it.
+
+  ----
 
 Ethical use of AI in scholarship applications ensures fairness, maintains the integrity of the process, and supports your personal growth. Always prioritize honesty and your own intellectual contribution.
 
