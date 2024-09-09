@@ -19,3 +19,5 @@ _____
 _____
 
 As I said before, not all AIs are created equal. While I do heavily encourage the use of ChatGPT, it is not good at finding scholarships. It will only provide a short list that is full of outdated scholarships. Usually all of their scholarships are from big "scholarship finding" websites. Often times the links that ChatGPT provides don't even lead to a valid webpage, just a 404 error. 
+
+Back to Home
