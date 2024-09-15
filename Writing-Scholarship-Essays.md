@@ -1,6 +1,7 @@
 # Writing Scholarship Essays
 
-There are multiple different approaches to writing scholarship essays with AI that all depend completely on personal preference and style. We will go over five different methods and 
+There are multiple different approaches to writing scholarship essays with AI that all depend completely on personal preference and style. We will go over five different methods for you to use.
+To see examples of these methods used check out our [Case Studies](Case-Studies.md) page!
 
 ## Word Vomit
 Sometimes we just find ourselves with a writing bug and the easiest thing to do is vomit words into a disarray on our document
@@ -15,6 +16,7 @@ One of my favorite methods is the double chat window. Basically you have the AI 
 
 
 ## Outline
-A classic
+One of my earliest tries at writing with AI was the Outline method. Early versions of ChatGPT were somewhat 'anit-essay' because the creators didn't want people solely using AIs to write their essays. This made it difficult to get ChatGPT to write a full length essay. Instead, it would write bulleted lists or a few short paragraphs. Although, ChatGPT has always been especially good at organizing information into outlines. For this method, type your prompt/question into the AI and ask it to create an outline for an essay (I would recommend including your desired word length in this). Your prompt should look something like this..."I need to write a 1000-1200 word paper, but I'm having trouble organizing my ideas. Can you write me an outline for a 1000-1200 word paper about misfits and monsters in literature?"
+
 
 [Back to Home](README.md)
