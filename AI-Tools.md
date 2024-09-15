@@ -1,10 +1,16 @@
 # AI Tools
 
-My preferred tools for writing are ChatGPT and Claude-3.5-Sonnet which can be found on Poe.com.
+### Tools for Writing 
+- ChatGPT
+- Claude-3.5-Sonnet
+- Gemini
+- Copilot
+- 
 Other good tools for writing are Gemini and Copilot.  
 
-Good tools for finding scholarships Perplexity.ai?? and Elicit.org??
+### Tools for Finding Scholarships
+- 
 
-Every AI on this site has a completely FREE version so that anyone can use these resources to find and apply for scholarships. 
+At ScholarshipsAIStyle we understand that it is not always feasible to pay for a subscription to AI tools, that's why every AI we promote on this site has a completely FREE version! We believe that these resources should be accessible for all students to find and apply for scholarships. 
 
 [Back to Home](README.md)
