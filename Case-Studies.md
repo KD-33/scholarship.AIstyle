@@ -8,7 +8,7 @@ Essay Requirements:
 
 ### [Word Vomit](https://chatgpt.com/share/66e7aff3-d2f4-800f-807c-4c5435de4fa2)
 ### [All AI (and editing)](https://chatgpt.com/share/9dd5e29c-2b92-4726-b47d-ee8674299e5b)
-### [My Voice](
+### [My Voice](https://chatgpt.com/share/66e7b817-57d4-800f-90f2-ef6437d9f546)
 ### [Double Chat Window](https://chatgpt.com/share/66e7b678-49a8-800f-ae3b-c8abd0f7a4c6)
 ### [Outline](https://chatgpt.com/share/66e7b3ca-b504-800f-bb04-c2988408cf1b)
 
