@@ -6,10 +6,13 @@ I am going to demonstrate all five different essay writing methods on one schola
 Essay Requirements:  
 500-800 word response to the following question: Considering the rapid pace of AI development, how do you anticipate emerging AI technologies will reshape industries and societal structures in the next decade? Furthermore, what proactive measures do you propose to ensure the ethical deployment of AI systems? What is driving your interest in this field? 
 
-### Word Vomit
-### All or Nothing
-### My Voice
-### Double Chat Window
-### Outline
+### [Word Vomit](
+### [All or Nothing](
+### [My Voice](
+### [Double Chat Window](
+### [Outline](
+
+
+## [Study #2](
 
 [Back to Home](README.md)
