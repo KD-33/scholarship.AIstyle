@@ -6,8 +6,8 @@ To see examples of these methods used check out our [Case Studies](Case-Studies.
 ## Word Vomit
 Sometimes I find myself with the opposite of writer's block, where I just have so many ideas and no clue how to organize them. When that happens I have found that the easiest thing to do is just 'vomit' words into a disarray on a document. Then I tell my AI the parameters for my essay and tell it to use the information/ideas I have so far. Your prompt should look something like this..."Hi! I need to write a 500-800 word essay on the following [insert essay prompt]. Here are the ideas I have so far that I would like you to use [insert word vomit here]."
 
-## All or Nothing (and editing)
-Just like the name suggests 
+## All AI (and editing)
+Just like the name suggests, this method is literally all AI. I would not suggest this method, but if you're really stumped for ideas this can help show you a rough draft that you can edit and work off of or it may spark your creativity so you can give the AI more guidance. Basically, just type your essay prompt and requirements into your AI and let it go. Your prompt should look something like this..."Hi! Please write a 500-800 word essay on the following [insert topic/essay prompt]."
 
 ## Double Chat Window
 One of my favorite methods is the double chat window. Basically you have the AI answer your essay prompt (but do not tell the AI that it is writing an essay, just tell it to answer the question) then once it provides an answer, you open a new chat and paste the answer in. On the new chat, ask the AI to write an essay using the information provided to answer [insert essay prompt]. 
