@@ -7,10 +7,10 @@ Essay Requirements:
 500-800 word response to the following question: Considering the rapid pace of AI development, how do you anticipate emerging AI technologies will reshape industries and societal structures in the next decade? Furthermore, what proactive measures do you propose to ensure the ethical deployment of AI systems? What is driving your interest in this field? 
 
 ### [Word Vomit](https://chatgpt.com/share/66e7aff3-d2f4-800f-807c-4c5435de4fa2)
-### [All or Nothing](https://chatgpt.com/share/9dd5e29c-2b92-4726-b47d-ee8674299e5b)
+### [All AI (and editing)](https://chatgpt.com/share/9dd5e29c-2b92-4726-b47d-ee8674299e5b)
 ### [My Voice](
 ### [Double Chat Window](
-### [Outline](
+### [Outline](https://chatgpt.com/share/66e7b3ca-b504-800f-bb04-c2988408cf1b)
 
 
 ## [Study #2](
