@@ -4,7 +4,7 @@ There are multiple different approaches to writing scholarship essays with AI th
 To see examples of these methods used check out our [Case Studies](Case-Studies.md) page!
 
 ## Word Vomit
-Sometimes we just find ourselves with a writing bug and the easiest thing to do is vomit words into a disarray on our document
+Sometimes I find myself with the opposite of writer's block, where I just have so many ideas and no clue how to organize them. When that happens I have found that the easiest thing to do is just 'vomit' words into a disarray on a document. Then I tell my AI the parameters for my essay and tell it to use the information/ideas I have so far. Your prompt should look something like this..."Hi! I need to write a 500-800 word essay on the following [insert essay prompt]. Here are the ideas I have so far that I would like you to use [insert word vomit here]."
 
 ## All or Nothing (and editing)
 Just like the name suggests 
