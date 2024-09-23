@@ -19,6 +19,6 @@ Essay Requirements: 500-word (or less) Written Essay that addresses how the indi
 ### [All AI (and editing)](
 ### [My Voice](
 ### [Double Chat Window](
-### [Outline](
+### [Outline](https://poe.com/s/Zz4G95OBoSadlukUJBCm)
 
 [Back to Home](README.md)
