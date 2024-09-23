@@ -16,7 +16,7 @@ Essay Requirements:
 Essay Requirements: 500-word (or less) Written Essay that addresses how the individual you have selected as your Essay Topic has inspired you and helped you build the confidence you need to achieve your goals (the individual must be someone you know personally, who lives in your community). 
 
 ### [Word Vomit](https://poe.com/s/aOCvA84xE2kaHFRZLb1z)
-### [All AI (and editing)](
+### [All AI (and editing)](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)
 ### [My Voice](
 ### [Double Chat Window](
 ### [Outline](https://poe.com/s/Zz4G95OBoSadlukUJBCm)
