@@ -1,6 +1,6 @@
-# Case Studies
+i# Case Studies
 
-I am going to demonstrate all five different essay writing methods on one scholarship application and then explain which essay I chose to submit and which writing method was my favorite. It's important to note that this is just how to write a base/rough draft essay. I would recommend reading through the rough draft yourself first and then picking out specific areas you want to edit. You can either edit the essay manually or use AI. If you are looking for the best way to edit using AI check out our [Editing Tips](Editing-Tips.md) page! 
+I am going to demonstrate all five different essay writing methods on one scholarship application and then explain which essay I chose to submit and which writing method was my favorite. It's important to note that this is just how to write a base/rough draft essay. I would recommend reading through the rough draft yourself first and then picking out specific areas you want to edit. You can either edit the essay manually or using AI. To learn the best ways to edit essays that you wrote with AI assistance check out our [Editing Tips](Editing-Tips.md) page! 
 
 ## [Study #1](https://www.nshss.org/scholarships/s/nshss-artificial-intelligence-ai-innovation-scholarship/)
 Essay Requirements:  
