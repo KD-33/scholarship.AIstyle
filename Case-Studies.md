@@ -18,7 +18,7 @@ Essay Requirements: 500-word (or less) Written Essay that addresses how the indi
 ### [Word Vomit](https://poe.com/s/aOCvA84xE2kaHFRZLb1z)
 ### [All AI (and editing)](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)
 ### [My Voice](https://poe.com/s/HGv2Xhq6L0a80OUPmK7y)
-### [Double Chat Window](
+### [Double Chat Window](https://poe.com/s/ZBt208vPL3zKjv21ma01)
 ### [Outline](https://poe.com/s/Zz4G95OBoSadlukUJBCm)
 
 [Back to Home](README.md)
