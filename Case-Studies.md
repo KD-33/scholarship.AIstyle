@@ -13,7 +13,8 @@ Essay Requirements:
 
 
 ## [Study #2](https://www.regions.com/about-regions/diversity-equity-inclusion/supporting-communities/essay-contest-scholarship)
-Essay Requirements: 500-word (or less) Written Essay that addresses how the individual you have selected as your Essay Topic has inspired you and helped you build the confidence you need to achieve your goals (the individual must be someone you know personally, who lives in your community). 
+Essay Requirements:  
+500-word (or less) Written Essay that addresses how the individual you have selected as your Essay Topic has inspired you and helped you build the confidence you need to achieve your goals (the individual must be someone you know personally, who lives in your community). 
 
 ### [Word Vomit](https://poe.com/s/aOCvA84xE2kaHFRZLb1z)
 ### [All AI (and editing)](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)
