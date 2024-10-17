@@ -8,7 +8,7 @@ _____
 -Good at finding lists of scholarships  
 -Will only provide links that can be accessed without going through a paywall (accessed for free)  
 -Sometimes provides links to individual scholarships and sometimes provides links to long lists of scholarships from "scholarship finding" websites  
--Scholarships can be out of date, so make sure to check for application deadlines
+-Scholarships can be out of date, so make sure to check for application deadlines  
 -Short, simple prompts like "Political Science Scholarships for Undergrads" will do the trick  
 -You can include more information like GPA, major, extracurriculars, ethnicity, etc. to make the results more specific  
 
